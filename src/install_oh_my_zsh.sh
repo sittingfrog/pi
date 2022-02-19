@@ -5,4 +5,3 @@ sudo apt install zsh -y
 sudo chsh -s /bin/zsh -y
 q
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-cp ..zshrc $HOME/.zshrc
