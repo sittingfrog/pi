@@ -1,3 +1,3 @@
 #!/bin/bash
 
-pip install virtualenv
+apt-get install python3-venv
