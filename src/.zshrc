@@ -14,9 +14,5 @@ plugins=(
 
 source $ZSH/oh-my-zsh.sh
 
-
-# Basic Commands
-alias lsa='ls -al'
-
 # Venv Commands
 alias activate="source venv/bin/activate"
